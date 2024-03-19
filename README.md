@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JammedRock
 - 👀 I’m interested in tinkering with stuff and playing games
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 - 😄 Pronouns: any pronous 
 
 <!---
